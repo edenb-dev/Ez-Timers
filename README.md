@@ -1,4 +1,4 @@
-# Ez-TImers
+# Ez-Timers
 Lightweight python library, that add's the ability to call functions repeatedly.
 
 ## Use cases
