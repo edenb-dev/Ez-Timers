@@ -41,6 +41,10 @@ My_Timer.Start()
 
 Execute the 'Stop' function on your Repeated_Timer object.
 
+```
+My_Timer.Stop()
+```
+
 
 *In this example the foo function will run every 0.5 seconds*
 
