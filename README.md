@@ -31,7 +31,7 @@ My_Timer = Repeated_Timer(0.5, foo)
 
 ### Starting the timer
 
-Execute the 'Start' function on your newly created Repeated_Timer object.
+To start the timer, execute the 'Start' function on your newly created Repeated_Timer object.
 
 ```
 My_Timer.Start()
@@ -39,7 +39,10 @@ My_Timer.Start()
 
 ### Stoping the timer
 
-Execute the 'Stop' function on your Repeated_Timer object.
+To stop the timer, execute the 'Stop' function on your Repeated_Timer object.
+
+**Execute 'Stop' will not stop the function midway.<br>
+**The funciton will still run till it finishes, but will not re-excute further.  
 
 ```
 My_Timer.Stop()
