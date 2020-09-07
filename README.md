@@ -49,6 +49,6 @@ My_Timer.Stop()
 ```
 
 
-*In this example the foo function will run every 0.5 seconds*
+*In this example the foo function will run every 0.5 seconds.*
 
 
