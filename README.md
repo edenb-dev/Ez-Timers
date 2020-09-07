@@ -41,8 +41,8 @@ My_Timer.Start()
 
 To stop the timer, execute the 'Stop' function on your Repeated_Timer object.
 
-**Execute 'Stop' will not stop the function midway.<br>
-**The funciton will still run till it finishes, but will not re-excute further.  
+**Execute 'Stop' will not stop the function midway.<br>**
+**The funciton will still run till it finishes, but will not re-excute further.**  
 
 ```
 My_Timer.Stop()
