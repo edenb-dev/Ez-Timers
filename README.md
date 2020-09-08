@@ -5,6 +5,7 @@ Lightweight python library, that add's the ability to call functions repeatedly.
 
 * Heart Beat - Check if a server connection is still live every x seconds.
 * Updating Data - making a "real-live" connection to a DB.
+* Grate example on how to incorporate our module into your project **[Ez-Animations](https://github.com/edenb-dev/Ez-Animations)**
 
 *Anything you need to execute every x seconds.*
 
